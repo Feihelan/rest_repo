@@ -1,2 +1,3 @@
 # rest_repo
-test repo for my project
+My first repo on Github
+I like watching drama , TV shows ...etc
